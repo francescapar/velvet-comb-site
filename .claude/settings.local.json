@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(open:*)",
+      "WebSearch",
+      "Bash(curl:*)",
+      "Bash(sh:*)",
+      "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
+      "Bash(uvx:*)",
+      "mcp__nanobanana__generate_image"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "nanobanana"
+  ]
+}

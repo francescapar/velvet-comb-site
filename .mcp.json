@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "nanobanana": {
+      "command": "uvx",
+      "args": ["nanobanana-mcp-server@latest"],
+      "env": {
+        "GEMINI_API_KEY": "AIzaSyDrCjpqb-yfsToMYVtcioy7mFfr9UuTZtM",
+        "IMAGE_OUTPUT_DIR": "./generated-images",
+        "NANOBANANA_MODEL": "auto"
+      }
+    }
+  }
+}
